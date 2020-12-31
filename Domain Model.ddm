@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<xmi:XMI xmlns:datamodelversion="http://www.ibm.com/com.ibm.datatools.core/model/data/1.9.0.0" xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:LogicalDataModel="http:///com/ibm/db/models/logical/logical.ecore">
+  <LogicalDataModel:Package xmi:id="_A4STsFZ4EeGN1945kgEKyQ" name="Domain Model" targetNamespace="Domain Model.ddm" namespaceSupported="true" contents="_JMXpwFZ4EeGN1945kgEKyQ _L5iaoFZ4EeGN1945kgEKyQ _L5iaoVZ4EeGN1945kgEKyQ _L5iaolZ4EeGN1945kgEKyQ _L5iao1Z4EeGN1945kgEKyQ _L5iapFZ4EeGN1945kgEKyQ _L5iapVZ4EeGN1945kgEKyQ _L5iaplZ4EeGN1945kgEKyQ _L5jBsFZ4EeGN1945kgEKyQ _L5jBsVZ4EeGN1945kgEKyQ _L5jBslZ4EeGN1945kgEKyQ _L5jBs1Z4EeGN1945kgEKyQ _L5jBtFZ4EeGN1945kgEKyQ _L5jBtVZ4EeGN1945kgEKyQ"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_JMXpwFZ4EeGN1945kgEKyQ" name="Quantity Domain" package="_A4STsFZ4EeGN1945kgEKyQ" namespace="Domain Model.ddm/Domain Model" baseType="NUMERIC(10,0)"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_L5iaoFZ4EeGN1945kgEKyQ" name="Code Domain" package="_A4STsFZ4EeGN1945kgEKyQ" namespace="Domain Model.ddm/Domain Model" baseType="VARCHAR(20)"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_L5iaolZ4EeGN1945kgEKyQ" name="Indicator Domain" package="_A4STsFZ4EeGN1945kgEKyQ" namespace="Domain Model.ddm/Domain Model" baseType="CHAR(2)"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_L5iao1Z4EeGN1945kgEKyQ" name="Description Domain" package="_A4STsFZ4EeGN1945kgEKyQ" namespace="Domain Model.ddm/Domain Model" baseType="VARCHAR(150)"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_L5iapFZ4EeGN1945kgEKyQ" name="Fecha Domain" package="_A4STsFZ4EeGN1945kgEKyQ" namespace="Domain Model.ddm/Domain Model" baseType="DATE"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_L5iapVZ4EeGN1945kgEKyQ" name="Indicador Domain" package="_A4STsFZ4EeGN1945kgEKyQ" namespace="Domain Model.ddm/Domain Model" baseType="CHAR(2)"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_L5iaplZ4EeGN1945kgEKyQ" name="Date Domain" package="_A4STsFZ4EeGN1945kgEKyQ" namespace="Domain Model.ddm/Domain Model" baseType="DATE"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_L5jBsFZ4EeGN1945kgEKyQ" name="Copy of ID Domain" package="_A4STsFZ4EeGN1945kgEKyQ" namespace="Domain Model.ddm/Domain Model" baseType="NUMERIC(18,0)"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_L5jBsVZ4EeGN1945kgEKyQ" name="Descripcion Domain" package="_A4STsFZ4EeGN1945kgEKyQ" namespace="Domain Model.ddm/Domain Model" baseType="VARCHAR(100)"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_L5jBs1Z4EeGN1945kgEKyQ" name="Amount Domain" package="_A4STsFZ4EeGN1945kgEKyQ" namespace="Domain Model.ddm/Domain Model" baseType="NUMERIC(22,2)"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_L5jBtFZ4EeGN1945kgEKyQ" name="Monto Domain" package="_A4STsFZ4EeGN1945kgEKyQ" namespace="Domain Model.ddm/Domain Model" baseType="NUMERIC(20,2)"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_L5jBtVZ4EeGN1945kgEKyQ" name="ID Domain" package="_A4STsFZ4EeGN1945kgEKyQ" namespace="Domain Model.ddm/Domain Model" baseType="NUMERIC(18,0)">
+    <privacyData xmi:id="_pA8SkAFCEeeUt55xRtretQ" classification="http://www.ibm.com/nex/classification/none" enforcement="http://www.ibm.com/nex/enforcement/required" policyTypeId="http://www.ibm.com/nex/policytype/age" policyId=""/>
+  </LogicalDataModel:AtomicDomain>
+  <LogicalDataModel:AtomicDomain xmi:id="_L5jBslZ4EeGN1945kgEKyQ" name="Codigo Domain" package="_A4STsFZ4EeGN1945kgEKyQ" namespace="Domain Model.ddm/Domain Model" baseType="VARCHAR(20)"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_L5iaoVZ4EeGN1945kgEKyQ" name="Cantidad Domain" package="_A4STsFZ4EeGN1945kgEKyQ" namespace="Domain Model.ddm/Domain Model" baseType="INTEGER"/>
+</xmi:XMI>

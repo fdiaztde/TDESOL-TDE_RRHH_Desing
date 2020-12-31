@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<xmi:XMI xmlns:datamodelversion="http://www.ibm.com/com.ibm.datatools.core/model/data/1.9.0.0" xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:NamingModel="http:///com/ibm/db/models/naming/naming.ecore">
+  <NamingModel:NamingStandard xmi:id="_PevdQHZwEeSOPqfo7dynVA" name="NamingStandard" glossaries="_PevdQXZwEeSOPqfo7dynVA"/>
+  <NamingModel:Glossary xmi:id="_PevdQXZwEeSOPqfo7dynVA" name="Abbreviations" namingStandard="_PevdQHZwEeSOPqfo7dynVA" referencedWords="_WWpUQIgHEemEkalQ-go3MQ">
+    <words xmi:id="_eo3ggP9KEeaST_Qpk_y2ew" name="CODIGO" abbreviation="CD"/>
+    <words xmi:id="_fl5wgP9KEeaST_Qpk_y2ew" name="NOMBRE" abbreviation="NM"/>
+    <words xmi:id="_gWeR0P9KEeaST_Qpk_y2ew" name="DESCRIPCION" abbreviation="DESC"/>
+    <words xmi:id="_mQG-sP9KEeaST_Qpk_y2ew" name="FECHA" abbreviation="FC"/>
+    <words xmi:id="_oP_LwP9KEeaST_Qpk_y2ew" name="DOCUMENTO" abbreviation="DOC"/>
+    <words xmi:id="_r0ZGoP9KEeaST_Qpk_y2ew" name="INICIO" abbreviation="INI"/>
+    <words xmi:id="_snDSoP9KEeaST_Qpk_y2ew" name="FIN" abbreviation="FIN"/>
+    <words xmi:id="_zLFnYP9KEeaST_Qpk_y2ew" name="VALIDEZ" abbreviation="VAL"/>
+    <words xmi:id="_2fnTMP9KEeaST_Qpk_y2ew" name="NUMERO" abbreviation="NUM"/>
+    <words xmi:id="_H5kmsIC0EemMTO22KShknQ" name="PERFIL EMPLEADO" abbreviation="PE"/>
+    <words xmi:id="_NSnvAIC0EemMTO22KShknQ" name="NOMINA" abbreviation="NOM"/>
+    <words xmi:id="_WWpUQIgHEemEkalQ-go3MQ" name="DE" status="ACCEPTED"/>
+  </NamingModel:Glossary>
+</xmi:XMI>

@@ -1,0 +1,3 @@
+#Wed Feb 19 06:07:06 BOT 2020
+com.ibm.datatools.naming.ui.properties\:glossary_references_key=/TDE_RRHH_Design/Glossary Model.ndm;
+com.ibm.datatools.logical.ui.properties.project\:domain_references_key=/TDE_RRHH_Design/Domain Model.ddm;

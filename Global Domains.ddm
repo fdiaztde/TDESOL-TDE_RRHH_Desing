@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<xmi:XMI xmlns:datamodelversion="http://www.ibm.com/com.ibm.datatools.core/model/data/1.9.0.0" xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:LogicalDataModel="http:///com/ibm/db/models/logical/logical.ecore">
+  <LogicalDataModel:Package xmi:id="_dW_WsEy5EeG9laQOnD1ooA" name="DWH Global Domain " targetNamespace="Global Domains.ddm" namespaceSupported="true" contents="_gt0IkEy5EeG9laQOnD1ooA _Q9j1gFZ1EeGN1945kgEKyQ _TkQyAFZ1EeGN1945kgEKyQ _TkQyAVZ1EeGN1945kgEKyQ _TkQyA1Z1EeGN1945kgEKyQ _TkQyBFZ1EeGN1945kgEKyQ _TkQyBVZ1EeGN1945kgEKyQ _ub-PcH7yEeGuWYD36M4f4w _x8v94ERiEeqvZaavUTaEuA _T72rMERkEeqvZaavUTaEuA _k5N38EaYEeqvZaavUTaEuA _GadXQFJQEeqEH53cV-rykQ">
+    <eAnnotations xmi:id="_i7C9QHAoEeqvvuELwCPdow" source="container_import_link"/>
+  </LogicalDataModel:Package>
+  <LogicalDataModel:AtomicDomain xmi:id="_gt0IkEy5EeG9laQOnD1ooA" name="ID Domain" package="_dW_WsEy5EeG9laQOnD1ooA" namespace="Global Domains.ddm/DWH Global Domain " baseType="NUMERIC(18,0)"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_Q9j1gFZ1EeGN1945kgEKyQ" name="Amount Domain" package="_dW_WsEy5EeG9laQOnD1ooA" namespace="Global Domains.ddm/DWH Global Domain " baseType="NUMERIC(22,2)"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_TkQyAFZ1EeGN1945kgEKyQ" name="Date Domain" package="_dW_WsEy5EeG9laQOnD1ooA" namespace="Global Domains.ddm/DWH Global Domain " baseType="DATE"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_TkQyAVZ1EeGN1945kgEKyQ" name="Indicator Domain" package="_dW_WsEy5EeG9laQOnD1ooA" namespace="Global Domains.ddm/DWH Global Domain " baseType="CHAR(2)"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_TkQyA1Z1EeGN1945kgEKyQ" name="Quantity Domain" package="_dW_WsEy5EeG9laQOnD1ooA" namespace="Global Domains.ddm/DWH Global Domain " baseType="NUMERIC(7,0)"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_TkQyBFZ1EeGN1945kgEKyQ" name="Description Domain" package="_dW_WsEy5EeG9laQOnD1ooA" namespace="Global Domains.ddm/DWH Global Domain " baseType="VARCHAR(255)"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_TkQyBVZ1EeGN1945kgEKyQ" name="Code Domain" package="_dW_WsEy5EeG9laQOnD1ooA" namespace="Global Domains.ddm/DWH Global Domain " baseType="VARCHAR(20)"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_ub-PcH7yEeGuWYD36M4f4w" name="Text Domain" package="_dW_WsEy5EeG9laQOnD1ooA" namespace="Global Domains.ddm/DWH Global Domain " baseType="VARCHAR(8000)"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_x8v94ERiEeqvZaavUTaEuA" name="Porcentual Domain" package="_dW_WsEy5EeG9laQOnD1ooA" namespace="Global Domains.ddm/DWH Global Domain " baseType="NUMERIC(11,4)"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_T72rMERkEeqvZaavUTaEuA" name="Time Domain" package="_dW_WsEy5EeG9laQOnD1ooA" namespace="Global Domains.ddm/DWH Global Domain " baseType="NUMERIC(14,8)"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_k5N38EaYEeqvZaavUTaEuA" name="Geo Domain" package="_dW_WsEy5EeG9laQOnD1ooA" namespace="Global Domains.ddm/DWH Global Domain " baseType="NUMERIC(12,10)"/>
+  <LogicalDataModel:AtomicDomain xmi:id="_GadXQFJQEeqEH53cV-rykQ" name="Numeric Domain" package="_dW_WsEy5EeG9laQOnD1ooA" namespace="Global Domains.ddm/DWH Global Domain " baseType="NUMERIC(12,0)"/>
+</xmi:XMI>
