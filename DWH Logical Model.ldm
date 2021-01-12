@@ -1784,6 +1784,9 @@
             <children xsi:type="notation:Shape" xmi:id="_Xn5HpBNaEeqCxfaeTQzsqg" type="IEEntityNonKey" element="_U3Fz9xNaEeqCxfaeTQzsqg" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Xn5HpRNaEeqCxfaeTQzsqg"/>
             </children>
+            <children xsi:type="notation:Shape" xmi:id="_zqbD8FHdEeuZvP0Rw4OH1A" type="IEEntityNonKey" element="_QBCwsFHdEeuZvP0Rw4OH1A" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zqbD8VHdEeuZvP0Rw4OH1A"/>
+            </children>
             <children xsi:type="notation:Shape" xmi:id="_Xn5usBNaEeqCxfaeTQzsqg" type="IEEntityNonKey" element="_U3Fz-BNaEeqCxfaeTQzsqg" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Xn5usRNaEeqCxfaeTQzsqg"/>
             </children>
@@ -1843,9 +1846,6 @@
             </children>
             <children xsi:type="notation:Shape" xmi:id="_Xn_OQhNaEeqCxfaeTQzsqg" type="IEEntityNonKey" element="_U3F0CxNaEeqCxfaeTQzsqg" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Xn_OQxNaEeqCxfaeTQzsqg"/>
-            </children>
-            <children xsi:type="notation:Shape" xmi:id="_Xn_ORBNaEeqCxfaeTQzsqg" type="IEEntityNonKey" element="_U3F0DBNaEeqCxfaeTQzsqg" fontName="Segoe UI">
-              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Xn_ORRNaEeqCxfaeTQzsqg"/>
             </children>
             <children xsi:type="notation:Shape" xmi:id="_Xn_1UBNaEeqCxfaeTQzsqg" type="IEEntityNonKey" element="_U3F0DRNaEeqCxfaeTQzsqg" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Xn_1URNaEeqCxfaeTQzsqg"/>
@@ -3532,6 +3532,12 @@
             </children>
             <children xsi:type="notation:Shape" xmi:id="_XrdZABNaEeqCxfaeTQzsqg" type="IEEntityNonKey" element="_U27cDhNaEeqCxfaeTQzsqg" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_XrdZARNaEeqCxfaeTQzsqg"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_nV_10FQKEeuZvP0Rw4OH1A" type="IEEntityNonKey" element="_Xk6isFQKEeuZvP0Rw4OH1A" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_nV_10VQKEeuZvP0Rw4OH1A"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_nWAc4FQKEeuZvP0Rw4OH1A" type="IEEntityNonKey" element="_XlETsFQKEeuZvP0Rw4OH1A" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_nWAc4VQKEeuZvP0Rw4OH1A"/>
             </children>
             <children xsi:type="notation:Shape" xmi:id="_XrdZAhNaEeqCxfaeTQzsqg" type="IEEntityNonKey" element="_U27cDxNaEeqCxfaeTQzsqg" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_XrdZAxNaEeqCxfaeTQzsqg"/>
@@ -5399,7 +5405,7 @@
       <details xmi:id="_SvwPUEquEeu5mZB3NVJXvQ" key="schema" value="RH01"/>
     </eAnnotations>
   </LogicalDataModel:Package>
-  <LogicalDataModel:Package xmi:id="_U20uMBNaEeqCxfaeTQzsqg" name="Dimensiones" namespaceSupported="true" parent="_U2ev8BNaEeqCxfaeTQzsqg" contents="_U20uMRNaEeqCxfaeTQzsqg _U21VQxNaEeqCxfaeTQzsqg _U218UxNaEeqCxfaeTQzsqg _U22jZhNaEeqCxfaeTQzsqg _U23KcxNaEeqCxfaeTQzsqg _U23xiRNaEeqCxfaeTQzsqg _U24YkxNaEeqCxfaeTQzsqg _U24YpRNaEeqCxfaeTQzsqg _U24_phNaEeqCxfaeTQzsqg _U24_tRNaEeqCxfaeTQzsqg _U25mthNaEeqCxfaeTQzsqg _U25myRNaEeqCxfaeTQzsqg _U26NwBNaEeqCxfaeTQzsqg _U26NzxNaEeqCxfaeTQzsqg _U26N4RNaEeqCxfaeTQzsqg _U2600hNaEeqCxfaeTQzsqg _U2605hNaEeqCxfaeTQzsqg _U27b4BNaEeqCxfaeTQzsqg _U27b8hNaEeqCxfaeTQzsqg _U28qDxNaEeqCxfaeTQzsqg _U28DCBNaEeqCxfaeTQzsqg _U28qABNaEeqCxfaeTQzsqg _U3Fz8BNaEeqCxfaeTQzsqg _U3GbDBNaEeqCxfaeTQzsqg _U3HCEBNaEeqCxfaeTQzsqg _U3HCHBNaEeqCxfaeTQzsqg _wSVxEIQJEeqabv-uRqDYYw _GpnVEIQKEeqabv-uRqDYYw">
+  <LogicalDataModel:Package xmi:id="_U20uMBNaEeqCxfaeTQzsqg" name="Dimensiones" namespaceSupported="true" parent="_U2ev8BNaEeqCxfaeTQzsqg" contents="_U20uMRNaEeqCxfaeTQzsqg _U21VQxNaEeqCxfaeTQzsqg _U218UxNaEeqCxfaeTQzsqg _U22jZhNaEeqCxfaeTQzsqg _U23KcxNaEeqCxfaeTQzsqg _U23xiRNaEeqCxfaeTQzsqg _U24YkxNaEeqCxfaeTQzsqg _U24YpRNaEeqCxfaeTQzsqg _U24_phNaEeqCxfaeTQzsqg _U24_tRNaEeqCxfaeTQzsqg _U25mthNaEeqCxfaeTQzsqg _U25myRNaEeqCxfaeTQzsqg _U26NwBNaEeqCxfaeTQzsqg _U26NzxNaEeqCxfaeTQzsqg _U26N4RNaEeqCxfaeTQzsqg _U2600hNaEeqCxfaeTQzsqg _U2605hNaEeqCxfaeTQzsqg _U27b4BNaEeqCxfaeTQzsqg _U27b8hNaEeqCxfaeTQzsqg _U28qDxNaEeqCxfaeTQzsqg _U28DCBNaEeqCxfaeTQzsqg _U28qABNaEeqCxfaeTQzsqg _U3Fz8BNaEeqCxfaeTQzsqg _U3GbDBNaEeqCxfaeTQzsqg _U3HCEBNaEeqCxfaeTQzsqg _U3HCHBNaEeqCxfaeTQzsqg _wSVxEIQJEeqabv-uRqDYYw _GpnVEIQKEeqabv-uRqDYYw _jkglwFHcEeuZvP0Rw4OH1A">
     <eAnnotations xmi:id="_J28woEt0EeuoIr5cicKmeg" source="UDP">
       <details xmi:id="_J3aqsEt0EeuoIr5cicKmeg" key="schema" value="RH01"/>
     </eAnnotations>
@@ -5795,7 +5801,7 @@
     <relationshipEnds xmi:id="_U27b8BNaEeqCxfaeTQzsqg" cardinality="ONE" entity="_U27b4BNaEeqCxfaeTQzsqg" key="_U27b6hNaEeqCxfaeTQzsqg"/>
     <relationshipEnds xmi:id="_U27b8RNaEeqCxfaeTQzsqg" verbPhrase="Verb10" cardinality="ZERO_TO_MANY" entity="_U3HpMRNaEeqCxfaeTQzsqg" key="_U3HpeRNaEeqCxfaeTQzsqg"/>
   </LogicalDataModel:Relationship>
-  <LogicalDataModel:Entity xmi:id="_U27b8hNaEeqCxfaeTQzsqg" name="Dim Persona" description="Almacena las informaciones que caracteriza cada uno de los individuos u organizaciones que tienen una relacion como cliente con la institucion bancaria.&#xD;&#xA;La relacion como cliente puede ser identificada en varias situaciones:&#xD;&#xA;-> Clientes con una o mas cuentas activas en la institucion bancaria&#xD;&#xA;-> Clientes que han tenido alguna vez una cuenta activa en la institucion bancaria, mismo que en la actualidad no tengan cuentas activas&#xD;&#xA;-> Clientes que hayan solicitado algun prodcuto de la institucion bancaria y por algun motivo, independiente del resultado final de la solictud. Esos clietnes son identifcados como Clientes Prospectos.&#xD;&#xA;" label="" package="_U20uMBNaEeqCxfaeTQzsqg" relationshipEnds="_U2604hNaEeqCxfaeTQzsqg _U26N3RNaEeqCxfaeTQzsqg _U25m1xNaEeqCxfaeTQzsqg _U25mxRNaEeqCxfaeTQzsqg _U28C8hNaEeqCxfaeTQzsqg _U28C9RNaEeqCxfaeTQzsqg _U24YoRNaEeqCxfaeTQzsqg _U28C-BNaEeqCxfaeTQzsqg _U25mshNaEeqCxfaeTQzsqg _U28C_RNaEeqCxfaeTQzsqg _U28DABNaEeqCxfaeTQzsqg _U28DAxNaEeqCxfaeTQzsqg _U28DBhNaEeqCxfaeTQzsqg _FgM3wVL7EeqQRLqI5RH2QA _U5FBkmLmEeqvZOlCEfEmsQ _9PMZwYiCEeqoCL6enhsCZA" relationships="_U2604BNaEeqCxfaeTQzsqg _U26N2xNaEeqCxfaeTQzsqg _U25m1RNaEeqCxfaeTQzsqg _U25mwxNaEeqCxfaeTQzsqg _U28C8BNaEeqCxfaeTQzsqg _U28C8xNaEeqCxfaeTQzsqg _U24YnxNaEeqCxfaeTQzsqg _U28C9hNaEeqCxfaeTQzsqg _U25msBNaEeqCxfaeTQzsqg _U5FBkGLmEeqvZOlCEfEmsQ">
+  <LogicalDataModel:Entity xmi:id="_U27b8hNaEeqCxfaeTQzsqg" name="Dim Persona" description="Almacena las informaciones que caracteriza cada uno de los individuos u organizaciones que tienen una relacion como cliente con la institucion bancaria.&#xD;&#xA;La relacion como cliente puede ser identificada en varias situaciones:&#xD;&#xA;-> Clientes con una o mas cuentas activas en la institucion bancaria&#xD;&#xA;-> Clientes que han tenido alguna vez una cuenta activa en la institucion bancaria, mismo que en la actualidad no tengan cuentas activas&#xD;&#xA;-> Clientes que hayan solicitado algun prodcuto de la institucion bancaria y por algun motivo, independiente del resultado final de la solictud. Esos clietnes son identifcados como Clientes Prospectos.&#xD;&#xA;" label="" package="_U20uMBNaEeqCxfaeTQzsqg" relationshipEnds="_U2604hNaEeqCxfaeTQzsqg _U26N3RNaEeqCxfaeTQzsqg _U25m1xNaEeqCxfaeTQzsqg _U25mxRNaEeqCxfaeTQzsqg _U28C8hNaEeqCxfaeTQzsqg _U28C9RNaEeqCxfaeTQzsqg _U24YoRNaEeqCxfaeTQzsqg _U28C-BNaEeqCxfaeTQzsqg _U25mshNaEeqCxfaeTQzsqg _U28C_RNaEeqCxfaeTQzsqg _U28DABNaEeqCxfaeTQzsqg _U28DAxNaEeqCxfaeTQzsqg _U28DBhNaEeqCxfaeTQzsqg _FgM3wVL7EeqQRLqI5RH2QA _U5FBkmLmEeqvZOlCEfEmsQ _9PMZwYiCEeqoCL6enhsCZA _jr-bIlQKEeuZvP0Rw4OH1A" relationships="_U2604BNaEeqCxfaeTQzsqg _U26N2xNaEeqCxfaeTQzsqg _U25m1RNaEeqCxfaeTQzsqg _U25mwxNaEeqCxfaeTQzsqg _U28C8BNaEeqCxfaeTQzsqg _U28C8xNaEeqCxfaeTQzsqg _U24YnxNaEeqCxfaeTQzsqg _U28C9hNaEeqCxfaeTQzsqg _U25msBNaEeqCxfaeTQzsqg _U5FBkGLmEeqvZOlCEfEmsQ _jr-bIFQKEeuZvP0Rw4OH1A">
     <extensions xsi:type="dimensional:Dimension" xmi:id="_U27b8xNaEeqCxfaeTQzsqg" userDefined="true"/>
     <attributes xmi:id="_U27b9BNaEeqCxfaeTQzsqg" name="Sk Persona" description="Atributo interno al modelo de datos, necesario para crear un numero secuencial que identifica cada Cliente y sus versiones en el tiempo, cuando aplique. La información de ese campo no tiene validez para los usuarios de negocio." label="" dataType="Domain Model.ddm/Domain Model/ID Domain" required="true"/>
     <attributes xmi:id="_U27b9RNaEeqCxfaeTQzsqg" name="Sk Tipo Identificacion" description="Atributo interno al modelo de datos, que permite relacionar cada Cliente con su Tipo Identificacion correspondiente. La información de ese campo no tiene validez para los usuarios de negocio." label="" dataType="Domain Model.ddm/Domain Model/ID Domain" required="true"/>
@@ -5822,6 +5828,8 @@
     <attributes xmi:id="_U27cChNaEeqCxfaeTQzsqg" name="Codigo Genero" description="Contiene el código natural de la fuente de información que describe a que Genero se relaciona el Cliente. Ese atributo proviene de las fuentes de información y es la clave para relacionar Cliente con Genero." dataType="Domain Model.ddm/Domain Model/Code Domain" required="true"/>
     <attributes xmi:id="_U6FHIGLmEeqvZOlCEfEmsQ" name="Sk Pais Nacionalidad" description="Atributo interno al modelo de datos, necesario para crear un numero secuencial que identifica cada Pais y sus versiones en el tiempo, cuando aplique. La información de ese campo no tiene validez para los usuarios de negocio." label="" dataType="Domain Model.ddm/Domain Model/ID Domain" required="true"/>
     <attributes xmi:id="_VxVfQGLmEeqvZOlCEfEmsQ" name="Codigo Pais Nacionalidad" dataType="Code Domain" required="true"/>
+    <attributes xmi:id="_Xk6isFQKEeuZvP0Rw4OH1A" name="Sk Lugar Nacimiento" dataType="Domain Model.ddm/Domain Model/ID Domain" required="true"/>
+    <attributes xmi:id="_XlETsFQKEeuZvP0Rw4OH1A" name="Codigo Lugar Nacimiento" dataType="Domain Model.ddm/Domain Model/Code Domain" required="true"/>
     <attributes xmi:id="_U27cDRNaEeqCxfaeTQzsqg" name="Fecha Inicio Validez" description="Atributo interno al modelo de datos que indica DESDE cuando un valor de Cliente es válido en el modelo de datos. Ese atributo es necesario para crear el mecanismo de manejo de versiones de los registros. La información de ese campo no tiene validez para los usuarios de negocio." label="" dataType="Date Domain"/>
     <attributes xmi:id="_U27cDhNaEeqCxfaeTQzsqg" name="Fecha Fin Validez" description="Atributo interno al modelo de datos que indica HASTA cuando un valor de Cliente es válido en el modelo de datos. Ese atributo es necesario para crear el mecanismo de manejo de versiones de los registros. La información de ese campo no tiene validez para los usuarios de negocio." label="" dataType="Date Domain"/>
     <attributes xmi:id="_U27cDxNaEeqCxfaeTQzsqg" name="SK Ejecucion Creacion" dataType="Domain Model.ddm/Domain Model/ID Domain"/>
@@ -5841,6 +5849,7 @@
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_U27cHRNaEeqCxfaeTQzsqg" name="ForeignKey10" attributes="_U27b9RNaEeqCxfaeTQzsqg _U27b9hNaEeqCxfaeTQzsqg" relationshipEnds="_U28C-BNaEeqCxfaeTQzsqg"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_U27cHhNaEeqCxfaeTQzsqg" name="ForeignKey11" attributes="_U27cCRNaEeqCxfaeTQzsqg _U27cChNaEeqCxfaeTQzsqg" relationshipEnds="_U25mshNaEeqCxfaeTQzsqg"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_U5XVcGLmEeqvZOlCEfEmsQ" name="ForeignKey" attributes="_U6FHIGLmEeqvZOlCEfEmsQ _VxVfQGLmEeqvZOlCEfEmsQ" relationshipEnds="_U5FBkmLmEeqvZOlCEfEmsQ"/>
+    <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_jsEhwFQKEeuZvP0Rw4OH1A" name="ForeignKey1" attributes="_Xk6isFQKEeuZvP0Rw4OH1A _XlETsFQKEeuZvP0Rw4OH1A" relationshipEnds="_jr-bIlQKEeuZvP0Rw4OH1A"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Relationship xmi:id="_U28C8BNaEeqCxfaeTQzsqg" name="Dim Persona_Dim Tipo Religion_FK" relationshipType="NON_IDENTIFYING" owningEntity="_U27b8hNaEeqCxfaeTQzsqg">
     <relationshipEnds xmi:id="_U28C8RNaEeqCxfaeTQzsqg" cardinality="ONE" entity="_U28DCBNaEeqCxfaeTQzsqg" key="_U28DEhNaEeqCxfaeTQzsqg"/>
@@ -5954,6 +5963,7 @@
     <attributes xmi:id="_U3Fz9RNaEeqCxfaeTQzsqg" name="Documento Identificacion" dataType="Domain Model.ddm/Domain Model/Code Domain" required="true"/>
     <attributes xmi:id="_U3Fz9hNaEeqCxfaeTQzsqg" name="Nombre Persona" dataType="Domain Model.ddm/Domain Model/Description Domain" required="true"/>
     <attributes xmi:id="_U3Fz9xNaEeqCxfaeTQzsqg" name="Fecha Ingreso" description="Almancena el valor de la fecha de nacimiento de un cliente de Tipo de Persona Natural. Para los clientes de Tipo de Persona Juridica, ese atributo contiene la informacion de la fecha de constitucion de la sociedad juridica.&#xD;&#xA;" label="" dataType="Date Domain" required="true"/>
+    <attributes xmi:id="_QBCwsFHdEeuZvP0Rw4OH1A" name="Fecha Salida" description="Almancena el valor de la fecha de nacimiento de un cliente de Tipo de Persona Natural. Para los clientes de Tipo de Persona Juridica, ese atributo contiene la informacion de la fecha de constitucion de la sociedad juridica.&#xD;&#xA;" label="" dataType="Date Domain" required="true"/>
     <attributes xmi:id="_U3Fz-BNaEeqCxfaeTQzsqg" name="SK Cargo" dataType="Domain Model.ddm/Domain Model/ID Domain" required="true"/>
     <attributes xmi:id="_U3Fz-RNaEeqCxfaeTQzsqg" name="Codigo Cargo" dataType="Domain Model.ddm/Domain Model/Code Domain" required="true"/>
     <attributes xmi:id="_U3Fz-hNaEeqCxfaeTQzsqg" name="SK Estatus Empleado" dataType="Domain Model.ddm/Domain Model/ID Domain" required="true"/>
@@ -5974,17 +5984,16 @@
     <attributes xmi:id="_U3F0CRNaEeqCxfaeTQzsqg" name="Codigo Clase Empleado" dataType="Domain Model.ddm/Domain Model/Code Domain" required="true"/>
     <attributes xmi:id="_U3F0ChNaEeqCxfaeTQzsqg" name="SK Grupo Empleado" dataType="Domain Model.ddm/Domain Model/ID Domain" required="true"/>
     <attributes xmi:id="_U3F0CxNaEeqCxfaeTQzsqg" name="Codigo Grupo Empleado" dataType="Domain Model.ddm/Domain Model/Code Domain" required="true"/>
-    <attributes xmi:id="_U3F0DBNaEeqCxfaeTQzsqg" name="Fecha Inicio Validez" dataType="Domain Model.ddm/Domain Model/Date Domain" required="true"/>
-    <attributes xmi:id="_U3F0DRNaEeqCxfaeTQzsqg" name="Fecha Fin Validez" dataType="Domain Model.ddm/Domain Model/Date Domain" required="true"/>
-    <attributes xmi:id="_U3F0DhNaEeqCxfaeTQzsqg" name="SK Ejecucion Creacion" dataType="Domain Model.ddm/Domain Model/ID Domain"/>
     <attributes xmi:id="_U3F0EBNaEeqCxfaeTQzsqg" name="Salario Base" dataType="Domain Model.ddm/Domain Model/ID Domain"/>
     <attributes xmi:id="_U3F0ERNaEeqCxfaeTQzsqg" name="Monto Beneficios" dataType="Domain Model.ddm/Domain Model/Amount Domain"/>
     <attributes xmi:id="_U3F0EhNaEeqCxfaeTQzsqg" name="Monto Neto Empleado Nomina Base" dataType="Domain Model.ddm/Domain Model/Amount Domain"/>
-    <attributes xmi:id="_U3F0DxNaEeqCxfaeTQzsqg" name="SK Ejecucion Modificacion" dataType="Domain Model.ddm/Domain Model/ID Domain"/>
     <attributes xmi:id="_U3F0ExNaEeqCxfaeTQzsqg" name="Cantidad Dependientes" dataType="Domain Model.ddm/Domain Model/Quantity Domain"/>
+    <attributes xmi:id="_U3F0DRNaEeqCxfaeTQzsqg" name="Fecha Fin Validez" dataType="Domain Model.ddm/Domain Model/Date Domain" required="true"/>
+    <attributes xmi:id="_U3F0DhNaEeqCxfaeTQzsqg" name="SK Ejecucion Creacion" dataType="Domain Model.ddm/Domain Model/ID Domain"/>
+    <attributes xmi:id="_U3F0DxNaEeqCxfaeTQzsqg" name="SK Ejecucion Modificacion" dataType="Domain Model.ddm/Domain Model/ID Domain"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_U3F0FBNaEeqCxfaeTQzsqg" name="Dim Empleado_PK" attributes="_U3Fz8hNaEeqCxfaeTQzsqg" relationshipEnds="_ihlIMYQPEeqabv-uRqDYYw"/>
     <keys xsi:type="LogicalDataModel:AlternateKey" xmi:id="_U3F0FRNaEeqCxfaeTQzsqg" name="Dim Empleado_AK" attributes="_U3Fz8hNaEeqCxfaeTQzsqg _U3Fz8xNaEeqCxfaeTQzsqg" relationshipEnds="_7EYggVL3EeqQRLqI5RH2QA _MYZmAVL4EeqQRLqI5RH2QA _lOcSgVL4EeqQRLqI5RH2QA _PBRv8VL8EeqQRLqI5RH2QA _zS6gkVL9EeqQRLqI5RH2QA _Cmuo4VL-EeqQRLqI5RH2QA _FSx_cVL-EeqQRLqI5RH2QA _AT1xsVMpEeqQRLqI5RH2QA _d-AUgVMpEeqQRLqI5RH2QA"/>
-    <keys xsi:type="LogicalDataModel:AlternateKey" xmi:id="_U3F0FhNaEeqCxfaeTQzsqg" name="Dim Empleado_LK" attributes="_U3Fz8xNaEeqCxfaeTQzsqg _U3F0DBNaEeqCxfaeTQzsqg" physicalOption="UNIQUE_INDEX"/>
+    <keys xsi:type="LogicalDataModel:AlternateKey" xmi:id="_U3F0FhNaEeqCxfaeTQzsqg" name="Dim Empleado_LK" attributes="_U3Fz8xNaEeqCxfaeTQzsqg" physicalOption="UNIQUE_INDEX"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_U3F0FxNaEeqCxfaeTQzsqg" name="ForeignKey" attributes="_U3Fz9BNaEeqCxfaeTQzsqg _U3Fz9RNaEeqCxfaeTQzsqg _U3Fz9hNaEeqCxfaeTQzsqg _8wwEcIQHEeqabv-uRqDYYw" relationshipEnds="_U28C_hNaEeqCxfaeTQzsqg"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_U3F0GBNaEeqCxfaeTQzsqg" name="ForeignKey1" attributes="_U3Fz-BNaEeqCxfaeTQzsqg _U3Fz-RNaEeqCxfaeTQzsqg" relationshipEnds="_U20uPxNaEeqCxfaeTQzsqg"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_U3F0GRNaEeqCxfaeTQzsqg" name="ForeignKey2" attributes="_U3Fz-hNaEeqCxfaeTQzsqg _U3Fz-xNaEeqCxfaeTQzsqg" relationshipEnds="_U24_ohNaEeqCxfaeTQzsqg"/>
@@ -7267,6 +7276,9 @@
             <children xsi:type="notation:Shape" xmi:id="_gkgWqmLVEeqvZOlCEfEmsQ" type="IEEntityNonKey" element="_U3Fz9xNaEeqCxfaeTQzsqg" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_gkgWq2LVEeqvZOlCEfEmsQ"/>
             </children>
+            <children xsi:type="notation:Shape" xmi:id="_zqtX0FHdEeuZvP0Rw4OH1A" type="IEEntityNonKey" element="_QBCwsFHdEeuZvP0Rw4OH1A" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zqtX0VHdEeuZvP0Rw4OH1A"/>
+            </children>
             <children xsi:type="notation:Shape" xmi:id="_gkgWrGLVEeqvZOlCEfEmsQ" type="IEEntityNonKey" element="_U3Fz-BNaEeqCxfaeTQzsqg" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_gkgWrWLVEeqvZOlCEfEmsQ"/>
             </children>
@@ -7326,9 +7338,6 @@
             </children>
             <children xsi:type="notation:Shape" xmi:id="_gkgW0mLVEeqvZOlCEfEmsQ" type="IEEntityNonKey" element="_U3F0CxNaEeqCxfaeTQzsqg" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_gkgW02LVEeqvZOlCEfEmsQ"/>
-            </children>
-            <children xsi:type="notation:Shape" xmi:id="_gkpgkGLVEeqvZOlCEfEmsQ" type="IEEntityNonKey" element="_U3F0DBNaEeqCxfaeTQzsqg" fontName="Segoe UI">
-              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_gkpgkWLVEeqvZOlCEfEmsQ"/>
             </children>
             <children xsi:type="notation:Shape" xmi:id="_gkpgkmLVEeqvZOlCEfEmsQ" type="IEEntityNonKey" element="_U3F0DRNaEeqCxfaeTQzsqg" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_gkpgk2LVEeqvZOlCEfEmsQ"/>
@@ -8061,6 +8070,12 @@
             <children xsi:type="notation:Shape" xmi:id="_WXF3sGLmEeqvZOlCEfEmsQ" type="IEEntityNonKey" element="_VxVfQGLmEeqvZOlCEfEmsQ" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_WXF3sWLmEeqvZOlCEfEmsQ"/>
             </children>
+            <children xsi:type="notation:Shape" xmi:id="_nWMqIFQKEeuZvP0Rw4OH1A" type="IEEntityNonKey" element="_Xk6isFQKEeuZvP0Rw4OH1A" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_nWMqIVQKEeuZvP0Rw4OH1A"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_nWMqIlQKEeuZvP0Rw4OH1A" type="IEEntityNonKey" element="_XlETsFQKEeuZvP0Rw4OH1A" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_nWMqI1QKEeuZvP0Rw4OH1A"/>
+            </children>
             <children xsi:type="notation:Shape" xmi:id="_y4ROqGLlEeqvZOlCEfEmsQ" type="IEEntityNonKey" element="_U27cDRNaEeqCxfaeTQzsqg" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_y4ROqWLlEeqvZOlCEfEmsQ"/>
             </children>
@@ -8596,6 +8611,12 @@
             </children>
             <children xsi:type="notation:Shape" xmi:id="_WXWWYGLmEeqvZOlCEfEmsQ" type="IEEntityNonKey" element="_VxVfQGLmEeqvZOlCEfEmsQ" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_WXWWYWLmEeqvZOlCEfEmsQ"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_nWT-4FQKEeuZvP0Rw4OH1A" type="IEEntityNonKey" element="_Xk6isFQKEeuZvP0Rw4OH1A" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_nWT-4VQKEeuZvP0Rw4OH1A"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_nWUl8FQKEeuZvP0Rw4OH1A" type="IEEntityNonKey" element="_XlETsFQKEeuZvP0Rw4OH1A" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_nWUl8VQKEeuZvP0Rw4OH1A"/>
             </children>
             <children xsi:type="notation:Shape" xmi:id="_BfEf9GLmEeqvZOlCEfEmsQ" type="IEEntityNonKey" element="_U27cDRNaEeqCxfaeTQzsqg" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_BfEf9WLmEeqvZOlCEfEmsQ"/>
@@ -10454,16 +10475,16 @@
     <attributes xmi:id="_-TCSYIQOEeqabv-uRqDYYw" name="Codigo Nivel Lectura" dataType="Domain Model.ddm/Domain Model/Code Domain"/>
     <attributes xmi:id="_-YG_oIQOEeqabv-uRqDYYw" name="Codigo Nivel Escritura" dataType="Domain Model.ddm/Domain Model/Code Domain"/>
     <attributes xmi:id="_-gEo0IQOEeqabv-uRqDYYw" name="Codigo Nivel Oral" dataType="Domain Model.ddm/Domain Model/Code Domain"/>
-    <attributes xmi:id="_dSYR0IQKEeqabv-uRqDYYw" name="Fecha Inicio Validez" description="Atributo interno al modelo de datos que indica DESDE cuando un valor de Direccion Cliente es válido en el modelo de datos. Ese atributo es necesario para crear el mecanismo de manejo de versiones de los registros. La información de ese campo no tiene validez para los usuarios de negocio." label="" dataType="Date Domain"/>
     <attributes xmi:id="_dSYR0YQKEeqabv-uRqDYYw" name="Fecha Fin Validez" description="Atributo interno al modelo de datos que indica HASTA cuando un valor de Direccion Cliente es válido en el modelo de datos. Ese atributo es necesario para crear el mecanismo de manejo de versiones de los registros. La información de ese campo no tiene validez para los usuarios de negocio." label="" dataType="Date Domain"/>
     <attributes xmi:id="_dSYR0oQKEeqabv-uRqDYYw" name="SK Ejecucion Creacion" dataType="Domain Model.ddm/Domain Model/ID Domain"/>
     <attributes xmi:id="_dSYR04QKEeqabv-uRqDYYw" name="SK Ejecucion Modificacion" dataType="Domain Model.ddm/Domain Model/ID Domain"/>
-    <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_dSYR1IQKEeqabv-uRqDYYw" name="Rel Idioma Empleado_PK" attributes="_7Di3kIQOEeqabv-uRqDYYw _dSYRu4QKEeqabv-uRqDYYw"/>
+    <attributes xmi:id="_u_IZgFHdEeuZvP0Rw4OH1A" name="SK Lugar Nacimiento" dataType="Domain Model.ddm/Domain Model/ID Domain" required="true"/>
+    <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_dSYR1IQKEeqabv-uRqDYYw" name="Rel Idioma Empleado_PK" attributes="_dSYRvIQKEeqabv-uRqDYYw _7Di3kIQOEeqabv-uRqDYYw _dSYRu4QKEeqabv-uRqDYYw"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_ihu5MIQPEeqabv-uRqDYYw" name="ForeignKey" attributes="_dSYRvIQKEeqabv-uRqDYYw" relationshipEnds="_ihlIMoQPEeqabv-uRqDYYw"/>
   </LogicalDataModel:Entity>
-  <LogicalDataModel:Relationship xmi:id="_ihlIMIQPEeqabv-uRqDYYw" name="Rel Idioma Empleado_Dim Empleado_FK" owningEntity="_dSYRuYQKEeqabv-uRqDYYw">
+  <LogicalDataModel:Relationship xmi:id="_ihlIMIQPEeqabv-uRqDYYw" name="Rel Idioma Empleado_Dim Empleado_FK" relationshipType="NON_IDENTIFYING" owningEntity="_dSYRuYQKEeqabv-uRqDYYw">
     <relationshipEnds xmi:id="_ihlIMYQPEeqabv-uRqDYYw" cardinality="ONE" entity="_U3Fz8BNaEeqCxfaeTQzsqg" key="_U3F0FBNaEeqCxfaeTQzsqg"/>
-    <relationshipEnds xmi:id="_ihlIMoQPEeqabv-uRqDYYw" verbPhrase="Verb1" entity="_dSYRuYQKEeqabv-uRqDYYw" key="_ihu5MIQPEeqabv-uRqDYYw"/>
+    <relationshipEnds xmi:id="_ihlIMoQPEeqabv-uRqDYYw" verbPhrase="Verb1" cardinality="ZERO_TO_MANY" entity="_dSYRuYQKEeqabv-uRqDYYw" key="_ihu5MIQPEeqabv-uRqDYYw"/>
   </LogicalDataModel:Relationship>
   <LogicalDataModel:Relationship xmi:id="_9PMZwIiCEeqoCL6enhsCZA" name="Rel Via Contacto Persona_Dim Persona_FK" relationshipType="NON_IDENTIFYING" owningEntity="_9PVjsIiCEeqoCL6enhsCZA">
     <relationshipEnds xmi:id="_9PMZwYiCEeqoCL6enhsCZA" cardinality="ONE" entity="_U27b8hNaEeqCxfaeTQzsqg" key="_U27cEhNaEeqCxfaeTQzsqg"/>
@@ -10607,4 +10628,21 @@
     <keys xsi:type="LogicalDataModel:AlternateKey" xmi:id="_uc1aWktyEeuHLNpEVriHWQ" name="Dim Tipo Asistencia_AK" attributes="_uc1aUktyEeuHLNpEVriHWQ _uc1aU0tyEeuHLNpEVriHWQ"/>
     <keys xsi:type="LogicalDataModel:AlternateKey" xmi:id="_uc1aW0tyEeuHLNpEVriHWQ" name="Dim Tipo Asistencia_LK" attributes="_uc1aU0tyEeuHLNpEVriHWQ _uc1aVUtyEeuHLNpEVriHWQ" physicalOption="UNIQUE_INDEX"/>
   </LogicalDataModel:Entity>
+  <LogicalDataModel:Entity xmi:id="_jkglwFHcEeuZvP0Rw4OH1A" name="Dim Lugar Nacimiento" package="_U20uMBNaEeqCxfaeTQzsqg" relationshipEnds="_jr-bIVQKEeuZvP0Rw4OH1A">
+    <extensions xsi:type="dimensional:Dimension" xmi:id="_jkglwVHcEeuZvP0Rw4OH1A" userDefined="true" slowlyChangingDimension="TYPE1"/>
+    <attributes xmi:id="_jkglwlHcEeuZvP0Rw4OH1A" name="SK Lugar Nacimiento" dataType="Domain Model.ddm/Domain Model/ID Domain" required="true"/>
+    <attributes xmi:id="_jkglw1HcEeuZvP0Rw4OH1A" name="Codigo Lugar Nacimiento" dataType="Domain Model.ddm/Domain Model/Code Domain" required="true"/>
+    <attributes xmi:id="_jkglxlHcEeuZvP0Rw4OH1A" name="Descripcion Lugar Nacimiento" dataType="Domain Model.ddm/Domain Model/Description Domain" required="true"/>
+    <attributes xmi:id="_jkglx1HcEeuZvP0Rw4OH1A" name="Fecha Inicio Validez" dataType="Domain Model.ddm/Domain Model/Date Domain" required="true"/>
+    <attributes xmi:id="_jkglyFHcEeuZvP0Rw4OH1A" name="Fecha Fin Validez" dataType="Domain Model.ddm/Domain Model/Date Domain" required="true"/>
+    <attributes xmi:id="_jkglyVHcEeuZvP0Rw4OH1A" name="SK Ejecucion Creacion" dataType="Domain Model.ddm/Domain Model/ID Domain"/>
+    <attributes xmi:id="_jkglylHcEeuZvP0Rw4OH1A" name="SK Ejecucion Modificacion" dataType="Domain Model.ddm/Domain Model/ID Domain"/>
+    <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_jkgly1HcEeuZvP0Rw4OH1A" name="Dim Lugar Nacimiento_PK" attributes="_jkglwlHcEeuZvP0Rw4OH1A"/>
+    <keys xsi:type="LogicalDataModel:AlternateKey" xmi:id="_jkglzFHcEeuZvP0Rw4OH1A" name="Dim Lugar Nacimiento_AK" attributes="_jkglwlHcEeuZvP0Rw4OH1A _jkglw1HcEeuZvP0Rw4OH1A" relationshipEnds="_jr-bIVQKEeuZvP0Rw4OH1A"/>
+    <keys xsi:type="LogicalDataModel:AlternateKey" xmi:id="_jkglzVHcEeuZvP0Rw4OH1A" name="Dim Lugar Nacimiento_LK" attributes="_jkglw1HcEeuZvP0Rw4OH1A _jkglx1HcEeuZvP0Rw4OH1A" physicalOption="UNIQUE_INDEX"/>
+  </LogicalDataModel:Entity>
+  <LogicalDataModel:Relationship xmi:id="_jr-bIFQKEeuZvP0Rw4OH1A" name="Dim Persona_Dim Lugar Nacimiento_FK" relationshipType="NON_IDENTIFYING" owningEntity="_U27b8hNaEeqCxfaeTQzsqg">
+    <relationshipEnds xmi:id="_jr-bIVQKEeuZvP0Rw4OH1A" cardinality="ONE" entity="_jkglwFHcEeuZvP0Rw4OH1A" key="_jkglzFHcEeuZvP0Rw4OH1A"/>
+    <relationshipEnds xmi:id="_jr-bIlQKEeuZvP0Rw4OH1A" verbPhrase="Verb2" cardinality="ZERO_TO_MANY" entity="_U27b8hNaEeqCxfaeTQzsqg" key="_jsEhwFQKEeuZvP0Rw4OH1A"/>
+  </LogicalDataModel:Relationship>
 </xmi:XMI>
